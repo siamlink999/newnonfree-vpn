@@ -2,7 +2,7 @@
   
     "version": 2,
     "message": "เวอร์ชันไฟล์: 2 \nมีอะไรใหม่ \nแก้ไขเวลาเพิ่ม 24 ชั่วโมง😘",
-    "fileUrl": "https://github.com/siamlink999/newnonfree-vpn/blob/main/nonfree.json",
+    "fileUrl": "https://raw.githubusercontent.com/siamlink999/newnonfree-vpn/refs/heads/main/nonfree.json",
     
     "RewardAmount": 24,
     
@@ -18,7 +18,7 @@
     
              "name": "TH-FREE-01",
     
-             "url": "http://141.98.18.205:82/server/online_app.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -26,7 +26,7 @@
     
              "name": "TH-FREE-02",
     
-             "url": "http://117.18.127.156:82/server/online_app.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -34,7 +34,7 @@
     
              "name": "TH-FREE-03",
     
-             "url": "http://117.18.127.149:82/server/online_app.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -42,7 +42,7 @@
     
              "name": "TH-FREE-04",
     
-             "url": "http://117.18.127.149:82/server/online_app.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -50,7 +50,7 @@
     
              "name": "TH-FREE-05",
     
-             "url": "http://117.18.127.147:82/server/online_app.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           }
     

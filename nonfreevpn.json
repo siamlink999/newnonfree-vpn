@@ -18,7 +18,7 @@
     
              "name": "TH-FREE-01",
     
-             "url": "116.204.180.87:82/th/online_server_1.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -26,7 +26,7 @@
     
              "name": "TH-FREE-02",
     
-             "url": "116.204.180.87:82/th/online_server_2.json"
+             "url": "http://116.204.180.87:82/server/online_app.json"
     
           },
     
@@ -34,7 +34,7 @@
     
              "name": "TH-FREE-03",
     
-             "url": "http://116.204.180.87:82/server/online_app.json"
+             "url": ""
     
           },
     
@@ -42,7 +42,7 @@
     
              "name": "TH-FREE-04",
     
-             "url": "http://116.204.180.87:82/server/online_app.json"
+             "url": ""
     
           },
     
@@ -50,7 +50,7 @@
     
              "name": "TH-FREE-05",
     
-             "url": "http://116.204.180.87:82/server/online_app.json"
+             "url": ""
     
           }
     

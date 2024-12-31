@@ -1,7 +1,7 @@
 {
   
-    "version": 17,
-    "message": "⏰️ 06:00น. 28/12/2024 \nเวอร์ชันไฟล์: 17 \nแก้ไข 𝗧𝗥𝗨𝗘 viber  \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 18,
+    "message": "⏰️ 09:00น. 31/12/2024 \nเวอร์ชันไฟล์: 18 \nแก้ไข เพิ่ม เซิร์ฟเวอร์ใหม่   \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newnonfree-vpn/raw/refs/heads/main/nonfree.json",
     
     "RewardAmount": 24,
@@ -16,23 +16,15 @@
     
     {
     
-             "name": "SERVER-TH-FREE-01",
+             "name": "เซิร์ฟเวอร์-FREE-01",
     
-             "url": "http://116.204.180.87:82/th/online_server_1.json"
-    
-          },
-    
-      {
-    
-             "name": "SERVER-TH-FREE-02",
-    
-             "url": "http://116.204.180.87:82/th/online_server_2.json"
+             "url": "http://45.136.255.108:82/server/online_app.json"
     
           },
     
       {
     
-             "name": "SERVER-TH-FREE-03",
+             "name": "เซิร์ฟเวอร์-FREE-02",
     
              "url": "http://45.154.26.234:82/server/online_app.json"
     
@@ -40,20 +32,21 @@
     
       {
     
-             "name": "SERVER-TH-FREE-04",
+             "name": "เซิร์ฟเวอร์-FREE-03",
     
-             "url": ""
+             "url": "http://116.204.180.87:82/th/online_server_1.json"
     
           },
     
       {
     
-             "name": "SERVER-TH-FREE-05",
+             "name": "เซิร์ฟเวอร์-FREE-04",
     
-             "url": ""
+             "url": "http://116.204.180.87:82/th/online_server_2.json"
     
           }
     
+      
     
        ]
       

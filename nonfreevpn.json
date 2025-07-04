@@ -1,7 +1,7 @@
 {
   
-    "version": 44,
-    "message": "⏰️ 08:00น. 14/06/2025 \nเวอร์ชันไฟล์: 44 \nแก้ไข เปลี่ยนhost Dtac \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ My \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 45,
+    "message": "⏰️ 08:00น. 05/07/2025 \nเวอร์ชันไฟล์: 45 \nแก้ไข เปลี่ยนhost Dtac \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ My \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newnonfree-vpn/raw/refs/heads/main/nonfree.json",
     
     "RewardAmount": 24,
@@ -16,22 +16,15 @@
     
     {
     
-             "name": "เซิร์ฟเวอร์-DNS-01",
+             "name": "เซิร์ฟเวอร์-SSH-01",
     
-             "url": "http://103.40.119.65:82/server/online_app.json"
+             "url": "http://141.98.18.151:82/server/online_app.json"
     
           },
     
       {
     
-             "name": "เซิร์ฟเวอร์-SSH-02",
-    
-             "url": "http://103.40.119.66:82/server/online_app.json"
-    
-          },
-      {
-    
-             "name": "เซิร์ฟเวอร์-V2RAY-03",
+             "name": "เซิร์ฟเวอร์-V2RAY-02",
     
              "url": "http://116.204.180.87:82/th/online_server_1.json"
     

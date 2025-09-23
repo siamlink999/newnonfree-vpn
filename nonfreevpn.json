@@ -1,7 +1,7 @@
 {
   
-    "version": 48,
-    "message": "⏰️ 21:00น. 15/09/2025 \nเวอร์ชันไฟล์: 48 \nแก้ไข เปลี่ยน โดเมน \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ My \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 49,
+    "message": "⏰️ 09:00น. 24/09/2025 \nเวอร์ชันไฟล์: 49 \nแก้ไข เปลี่ยน โดเมน \n \nรองรับการใช้งาน SSH SSL DNSTT V2RAY \n \n❤ 𝗧𝗥𝗨𝗘 \n💜 𝗗𝗧𝗔𝗖 \n❤ My \n❤ 𝗔𝗜𝗦 \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newnonfree-vpn/raw/refs/heads/main/nonfree.json",
     
     "RewardAmount": 24,
@@ -18,20 +18,25 @@
     
              "name": "เซิร์ฟเวอร์-SSH-01",
     
-             "url": "http://212.80.213.150:82/server/online_app.json"
+             "url": "http://103.114.201.250:82/server/online_app.json"
     
           },
     
       {
     
-             "name": "เซิร์ฟเวอร์-V2RAY-02",
+             "name": "เซิร์ฟเวอร์-SSH-02",
     
-             "url": "http://116.204.180.87:82/th/online_server_1.json"
+             "url": "http://103.114.201.249:82/server/online_app.json"
     
-      }
+          },
+
+    {
     
-      
+             "name": "เซิร์ฟเวอร์-SSH-03",
     
+             "url": "http://212.80.213.150:82/server/online_app.json"
+    
+          }
       
     
        ]
